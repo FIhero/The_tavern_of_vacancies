@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "the-tavern-of-vacancies"
+version = "0.1.0"
+description = ""
+authors = ["The_Mysterious_Elf <sveta250206@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
